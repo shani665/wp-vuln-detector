@@ -1,4 +1,4 @@
-# wp-vuln-detector
+# Brout Force Attack and User Enumeration
 WordPress Chained Attack Detection – Astra Security Assignment
 
 This project detects chained vulnerabilities on a WordPress site:
