@@ -15,7 +15,7 @@ This project detects chained vulnerabilities on a WordPress site:
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/wp-vuln-detector.git
+git clone https://github.com/shani665/wp-vuln-detector
 cd wp-vuln-detector
 ```
 2. Install Dependencies
